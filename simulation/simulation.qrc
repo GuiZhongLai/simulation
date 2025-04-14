@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/axis.fs</file>
+        <file>Resources/axis.vs</file>
+        <file>Resources/grid.fs</file>
+        <file>Resources/grid.vs</file>
+        <file>Resources/model.fs</file>
+        <file>Resources/model.vs</file>
+    </qresource>
+</RCC>
